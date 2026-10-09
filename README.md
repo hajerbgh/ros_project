@@ -90,7 +90,7 @@ sudo apt install -y \
 ```bash
 mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws/src
-git clone https://github.com/YOUR_USERNAME/bump_go_tp5.git
+git clone https://github.com/hajerbgh/bump_go_tp5.git
 ```
 
 ---
